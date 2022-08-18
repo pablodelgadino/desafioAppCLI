@@ -7,7 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Caelum Catering
+        </p>
+        <p>
+        Empresa de Catering de Cordoba, Argentina.
         </p>
         <a
           className="App-link"
